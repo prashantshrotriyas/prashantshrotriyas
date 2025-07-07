@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashant Shrotriya</h1>
-<h3 align="center">A passionate learner</h3>
+<h1 align="center"> Prashant Shrotriya</h1>
+<h3 align="center">MTech CSE @IIIT-D</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
